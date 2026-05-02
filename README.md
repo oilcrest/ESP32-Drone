@@ -37,6 +37,11 @@ Welcome to **ESP32-Drone**, an open-source flight controller firmware for ESP32-
 > ⚠️ **Safety:** Flying multirotors can cause injury or property damage. Use only where permitted, with propellers removed during bench testing when appropriate, and never arm unless you understand the controls. This project is for **education and hobby use** — you are responsible for compliance with local laws and safe operation.
 
 > Replace factory Wi‑Fi credentials in `Drone.ino` (or save new ones in **Settings**) before deploying.
+
+<img width="1920" height="1080" alt="MVI_8465 00_05_06_05 Still029" src="https://github.com/user-attachments/assets/3e421a6b-8b1e-4d59-a7c7-864fd76ae00a" />
+
+
+
 <div>&nbsp;</div>
 
 ## 🎯 Features
@@ -68,6 +73,9 @@ Welcome to **ESP32-Drone**, an open-source flight controller firmware for ESP32-
 - Motor GPIO pins, **PWM frequency** and **resolution**
 - I2C pins, Madgwick **beta**, **max tilt** degrees
 - **`/restart`** POST for reboot after pin changes
+
+<img width="1920" height="913" alt="MVI_8465 00_05_30_09 Still031" src="https://github.com/user-attachments/assets/5ef644b7-b239-4e07-9f86-670e4a253c43" />
+
 <div>&nbsp;</div>
 
 ## 🔧 Hardware Overview
@@ -89,6 +97,10 @@ Default GPIO pins in firmware (change in sketch or **Settings** + restart):
 | Front right | 4 |
 | Back left | 25 |
 | Back right | 32 |
+
+<img width="1919" height="1080" alt="IMG_0341" src="https://github.com/user-attachments/assets/d097c4f1-2983-4809-a97f-a6025d825d13" />
+
+
 <div>&nbsp;</div>
 
 
