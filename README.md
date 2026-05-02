@@ -80,6 +80,8 @@ Welcome to **ESP32-Drone**, an open-source flight controller firmware for ESP32-
 
 ## 🔧 Hardware Overview
 
+> ⚠️ **PCB / hardware risk:** This board is a **custom, experimental PCB** — it may have layout or wiring issues and is **not guaranteed** for any use case. **Check polarity, power, and grounds** before applying voltage or flying. Firmware cannot fix bad hardware. **No warranty — use at your own risk.**
+
 Typical build:
 
 | Block | Notes |
