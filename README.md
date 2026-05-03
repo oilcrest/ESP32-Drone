@@ -36,7 +36,7 @@ Welcome to **ESP32-Drone**, an open-source flight controller firmware for ESP32-
 
 > ⚠️ **Safety:** Flying multirotors can cause injury or property damage. Use only where permitted, with propellers removed during bench testing when appropriate, and never arm unless you understand the controls. This project is for **education and hobby use** — you are responsible for compliance with local laws and safe operation.
 
-> Replace factory Wi‑Fi credentials in `Drone.ino` (or save new ones in **Settings**) before deploying.
+> Replace factory Wi‑Fi credentials in `Firmware.ino` (or save new ones in **Settings**) before deploying.
 
 <img width="1920" height="1080" alt="MVI_8465 00_05_06_05 Still029" src="https://github.com/user-attachments/assets/3e421a6b-8b1e-4d59-a7c7-864fd76ae00a" />
 
